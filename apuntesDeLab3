@@ -1,0 +1,28 @@
+/*
+PREGUNTA 1
+
+
+package pregunta1;
+import java.util.Scanner;
+
+public class Pregunta1 {
+
+    
+    public static void main(String[] args) {
+        
+        Scanner entrada=new Scanner (System.in);
+        double a1,a2;
+        System.out.println("Imgrese primer numero: ");
+        a1=entrada.nextDouble();
+        System.out.println("Ingrese segundo numero: ");
+        a2=entrada.nextDouble();
+        System.out.println(a1+a2);
+        System.out.println(a1-a2);
+        System.out.println(a1*a2);
+        System.out.println(a1/a2);
+    }
+    
+}
+
+
+*/
