@@ -13,4 +13,12 @@ modelo--->abstracción--->detalles relevantes--->complejidad
 -   implementacion: artefactos del sistema 
 -   despliegue: instalar y ejecutar el sistema
     casos de uso: funcionales del sistema
+    
+UML elementos
+- bloques de construccion: para diagramar
+- - elementos
+- - relacciones
+- - diaagramsa
+- reglas
+- mecanismos comunes
 */
