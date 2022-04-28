@@ -2,6 +2,10 @@
 
 /*
 ANOTACIONES S3 Mi
+
+CLASES: abstraccion de propiedades, operaciones y acciones que ejecutan los objetos del mundo real (PLANTILLA QUE CREA OBJETOS)
+OBJETOS:
+
 modelo--->abstracción--->detalles relevantes--->complejidad
 |-> visualizar sistema, crear plantillas, documentar decisiones
 
@@ -21,4 +25,19 @@ UML elementos
 - - diaagramsa
 - reglas
 - mecanismos comunes
+
+las clases: titulo,var, funciones
+los objetos no detallan los atributos
+clase activa--->contienen metodos en tiempo de ejecucion para sesr repetidos (ejem:notificaciones de registro)
+interfaz
+
+interaccion
+maquinas de estado
+
+elementos de agrupacion: paquete
+
+REGLAS:
+dependencia, de caracter semantico
+asociacion
+generalizacion: relaciones hijo-padre
 */
