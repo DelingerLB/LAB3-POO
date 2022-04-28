@@ -7,8 +7,8 @@ modelo--->abstracción--->detalles relevantes--->complejidad
 
 - vistas arquitecturales 4+1
 -   (LOGICO)
--   diseño: clases interfaces
--   interaccion: flujo control
+-   diseño: clases interfaces, req funcional
+-   interaccion: flujo control. req no funcional
 -   (FISICO)
 -   implementacion: artefactos del sistema 
 -   despliegue: instalar y ejecutar el sistema
