@@ -40,4 +40,5 @@ REGLAS:
 dependencia, de caracter semantico
 asociacion
 generalizacion: relaciones hijo-padre
+realizacion
 */
